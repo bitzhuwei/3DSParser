@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bitzhuwei._3DS", "bitzhuwei._3DS\bitzhuwei._3DS.csproj", "{4F52450B-F804-46FB-B101-8B22A6274AE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bitzhuwei._3DSViewer", "bitzhuwei._3DSViewer\bitzhuwei._3DSViewer.csproj", "{AB283A29-A105-4CAC-9F43-6B6808982139}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F52450B-F804-46FB-B101-8B22A6274AE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F52450B-F804-46FB-B101-8B22A6274AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F52450B-F804-46FB-B101-8B22A6274AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F52450B-F804-46FB-B101-8B22A6274AE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB283A29-A105-4CAC-9F43-6B6808982139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB283A29-A105-4CAC-9F43-6B6808982139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB283A29-A105-4CAC-9F43-6B6808982139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB283A29-A105-4CAC-9F43-6B6808982139}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
